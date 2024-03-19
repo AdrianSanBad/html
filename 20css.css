@@ -5,5 +5,13 @@
     border: 2px solid darkred;
     border-radius: 5px;
     width: 25%;
+    position: relative;
+    top: 10px;
+    left: 5%;
+  }
+  section{
+    width: 60%;
+    margin: 0 auto;
+    border: 1px solid black;
   }
   
