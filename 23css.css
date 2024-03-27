@@ -1,0 +1,35 @@
+#notification-div {
+    background-color: #ed8a0a;
+    color: #313131;
+    padding: 5px;
+    border: 2px solid darkred;
+    border-radius: 5px;
+    width: 25%;
+    position: fixed;
+    top: 100px;
+    left: 15px;
+    z-index: 1;
+}
+
+
+header {
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    background-color: blueviolet;
+    position: fixed;
+    z-index: 1;
+}
+
+main {
+    position: relative;
+    top: 103px; 
+    background-color: #313131;
+    
+}
+
+section {
+    width: 60%;
+    margin: 0 auto;
+    border: 1px solid black;
+}
